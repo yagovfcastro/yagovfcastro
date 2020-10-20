@@ -1,16 +1,22 @@
-### Hi there 👋
+# I've been expecting you, wanderer! :speech_balloon: 
 
-<!--
-**yagovfcastro/yagovfcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little about me 
+I'm a computer science student at the Federal University of Uberlândia. Currently trying my best to improve my back-end skills, as well as my logical thinking, with the goal to someday be a reference at the area I'll be working at.
 
-Here are some ideas to get you started:
+## Skills I'm improving :computer:
+- **Development**
+	- Kotlin :electron:
+	- Spring Boot :beginner:
+  - Android Studio :beginner:
+  - Git :beginner:
+  - Design Patterns
+  
+## Hobbies :space_invader:
+I'm passionate about music, mainly genres derived from metal, so I always carry my earphone arround. On my spare time, I enjoy playing some games, mostly competitive online games, but I do enjoy a good offline adventure. When I'm not playing, I tend to be watching either a fantasy, adventure or a dystopian sci fi movie. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+[![Linkedin](https://img.shields.io/badge/-Yago%20Castro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-castro/)](https://www.linkedin.com/in/yago-castro/)
+[![Mail](https://img.shields.io/badge/-yagovfcastro@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/yago-castro/)](mailto:yagovfcastro@gmail.com)
+  
+#### Farewell wanderer, may we meet again! :wave: 
+  
