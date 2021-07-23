@@ -8,6 +8,7 @@ I'm a computer science student at the Federal University of Uberlândia. Current
   - Kotlin :electron:
   - PostgreSQL :electron:
   - Git :electron:
+  - Docker :beginner:
   - Spring Boot :beginner:
   - Android Studio :beginner:
   - Design Patterns :beginner:
