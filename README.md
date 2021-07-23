@@ -6,11 +6,12 @@ I'm a computer science student at the Federal University of Uberlândia. Current
 ## Skills I'm improving :computer:
 - **Development**
   - Kotlin :electron:
+  - PostgreSQL :electron:
+  - Git :electron:
   - Spring Boot :beginner:
   - Android Studio :beginner:
-  - Git :beginner:
-  - Design Patterns
-  - Clean code
+  - Design Patterns :beginner:
+  - Clean code :beginner:
   
 ## Hobbies :space_invader:
 I'm passionate about music, mainly synthwave and genres derived from metal, so I always carry my earphone around. On my spare time, I enjoy playing some games, mostly competitive online games, but I do enjoy a good offline adventure. When I'm not playing, I tend to be watching either a fantasy, adventure or dystopian sci fi movie. 
